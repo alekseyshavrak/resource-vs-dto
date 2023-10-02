@@ -21,4 +21,4 @@ make db-migrate
 make db-rollback
 ```
 
-Postman: https://www.postman.com/mosdev-api/workspace/response-vs-data
+Postman: https://www.postman.com/mosdev-api/workspace/resource-vs-dto
